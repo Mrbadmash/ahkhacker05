@@ -1548,7 +1548,7 @@ Don't Worry Your Checkpoint ID's Will Be Open After 7 Days
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
 
-def ahk():
+def black():
 	global toket
 	os.system('clear')
 	try:
@@ -1752,7 +1752,7 @@ ______________☆____________★______________
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
          
-def hacker():
+def mafia():
 	global toket
 	os.system('clear')
 	try:
